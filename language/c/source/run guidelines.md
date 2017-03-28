@@ -12,4 +12,8 @@ install gcc first
 - run binary
 
 `./hello`
+
+### just see preprocessed results
+
+`gcc -E hello.c`
 <!-- kTopicEnd -->

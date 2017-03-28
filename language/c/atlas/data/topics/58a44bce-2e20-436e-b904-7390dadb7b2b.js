@@ -1,1 +1,0 @@
-window.jsData("58a44bce-2e20-436e-b904-7390dadb7b2b", [{"start":{"type":"kTopicStart","text":"// kTopicStart","params":{},"lineIndex":0},"content":"#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello World!\\n\");\n}\n","end":{"type":"kTopicEnd","text":"// kTopicEnd","params":{},"lineIndex":7},"format":"c"}]);

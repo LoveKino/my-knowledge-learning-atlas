@@ -1,1 +1,0 @@
-window.jsData("3d31633a-ee9b-49fe-83f5-05abfdb2a3e6", [{"start":{"type":"kTopicStart","text":"// kTopicStart tar=gcc","params":{"tar":"gcc"},"lineIndex":0},"content":"#include <stdio.h>\n\nint main(void) {\n    printf(\"Hello World!\\n\");\n}","end":{"type":"kTopicEnd","text":"// kTopicEnd","params":{},"lineIndex":6},"format":"c","console":"Hello World!\n"}]);
