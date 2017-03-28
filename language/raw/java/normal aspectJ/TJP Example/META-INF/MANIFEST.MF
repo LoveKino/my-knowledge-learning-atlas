@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_21 (Oracle Corporation)
+
+Name: src/tjp/GetInfo.aj
+SHA-256-Digest: vGFKWhHiHSnL9Q8WPtcGdBvmvIP++haVem+SqWbkRzY=
+
+Name: .classpath
+SHA-256-Digest: 0yGH9ws7n9V0OY1nxRyE8c6gBcZGZUkYu8x+WBB+IcM=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: G2hFTVPngfh5NUf96Pyy87A7XIE083udjEBFy4pUc/M=
+
+Name: src/tjp/Demo.java
+SHA-256-Digest: RJ+oWSeHMlp18dcB2NNqiLjTeb28qGovhUyM4fadOQQ=
+

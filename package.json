@@ -1,0 +1,27 @@
+{
+  "name": "my-knowledge-learning-atlas",
+  "version": "0.0.1",
+  "description": "My knowledge learning atlas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveKino/my-knowledge-learning-atlas.git"
+  },
+  "keywords": [
+    "My",
+    "knowledge",
+    "learning",
+    "atlas"
+  ],
+  "author": "ddchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoveKino/my-knowledge-learning-atlas/issues"
+  },
+  "homepage": "https://github.com/LoveKino/my-knowledge-learning-atlas#readme",
+  "devDependencies": {
+  }
+}

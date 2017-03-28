@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'hello_gem_ddchen'
+puts Hello_gem_ddchen.hi(ARGV[0])

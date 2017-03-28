@@ -1,0 +1,18 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: DwuXTsRbOR4YCzBRuii376wRY8T6M
+ PR4ZAr2EG9KFoY=
+SHA-256-Digest-Manifest: F+DTLlBx75sCgw2ycYB9YUVhK2mfyl9gh+H6R23iVO4=
+Created-By: 1.7.0_21 (Oracle Corporation)
+
+Name: src/tjp/GetInfo.aj
+SHA-256-Digest: ZrcSrwBysBqUBa6+qSt2lBVadFFlvF+LDM37ydi11sU=
+
+Name: .classpath
+SHA-256-Digest: re7SauPBTkv6Se/mvCGavZm/fURdOAukueQqZQ4uvkY=
+
+Name: META-INF/eclipse.inf
+SHA-256-Digest: ak2bzOGDjLurhLXRsFA/N7TRhvaP+YA1QdnivLjcXtk=
+
+Name: src/tjp/Demo.java
+SHA-256-Digest: HKr3X6wSfLOfL9+jbWaHyFvjt3Jqran0YbXAhaEtyGM=
+
