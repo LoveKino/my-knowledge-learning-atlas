@@ -16,4 +16,11 @@ install gcc first
 ### just see preprocessed results
 
 `gcc -E hello.c`
+
+### mutilple c files
+
+```
+gcc -o output a.c b.c
+./outout
+```
 <!-- kTopicEnd -->
